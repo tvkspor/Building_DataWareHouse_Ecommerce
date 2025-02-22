@@ -7,7 +7,7 @@ This project focuses on designing a database for an E-commerce platform based on
 ## 2. Data and Design Requirement
 
 For detail information about data requirement and design requirement please visit:
-[Building a DB for an Ecommerce Platform (PDF)](Building_a_DB_for_an_Ecommerce-Platform(1).pdf)
+[Building a DB for an Ecommerce Platform (1) (PDF)](Building_a_DB_for_an_Ecommerce-Platform(1).pdf)
 
 
 
@@ -39,7 +39,12 @@ RM design for DB:
 - **Entity-Relationship Diagram (ERD)**: Designed to visualize data relationships.
 - **Data Warehousing Concepts**: Used for revenue analysis and reporting.
 
-## 6. Future Enhancements
+## 6. Insert data into database and buiding API ( build with NodeJS ) to test some function with database
+For more information please visit:
+[Building a DB for an Ecommerce Platform (2) (PDF)](Building_a_DB_for_an_Ecommerce-Platform(2).pdf)
+
+
+## 7. Future Enhancements
 
 - Implement data indexing for faster queries.
 - Add NoSQL support for handling unstructured data.
