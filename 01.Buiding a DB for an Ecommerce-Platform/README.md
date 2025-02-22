@@ -43,7 +43,7 @@ RM design for DB:
 For more information please visit:
 ![Building a DB for an Ecommerce Platform (2) (PDF)](Building_a_DB_for_an_Ecommerce-Platform(2).pdf)
 
-Link API repo: ![](https://github.com/livensmi1e/database-assignment)
+Link API repo: ![Link](https://github.com/livensmi1e/database-assignment)
 
 ## 7. Future Enhancements
 
