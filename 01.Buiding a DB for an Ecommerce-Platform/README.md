@@ -27,8 +27,9 @@ The database follows a relational model with the following key tables:
 - `Payments` – Manages transaction details.
 - `Sales` – Records sales data for revenue analysis.
 
-[](01.Buiding a DB for an Ecommerce-Platform/Architecture of DB/EERD_E-Commercial_DB.png)
-[](01.Buiding a DB for an Ecommerce-Platform/Architecture of DB/RelationalMapping_E-Commercial_DB.png)
+
+[Building a DB for an Ecommerce Platform (PDF)](Architecture of DB/RelationalMapping_E-Commercial_DB.png)
+[Building a DB for an Ecommerce Platform (PDF)](Architecture of DB/EERD_E-Commercial_DB.png)
 
 ## 5. Technologies Used
 
