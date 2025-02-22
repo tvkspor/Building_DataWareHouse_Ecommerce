@@ -41,9 +41,9 @@ RM design for DB:
 
 ## 6. Insert data into database and buiding API ( build with NodeJS ) to test some function with database
 For more information please visit:
-![Building a DB for an Ecommerce Platform (2) (PDF)](Building_a_DB_for_an_Ecommerce-Platform(2).pdf)
+[Building a DB for an Ecommerce Platform (2) (PDF)](Building_a_DB_for_an_Ecommerce-Platform(2).pdf)
 
-Link API repo: ![Link](https://github.com/livensmi1e/database-assignment)
+Link API repo: [Link](https://github.com/livensmi1e/database-assignment)
 
 ## 7. Future Enhancements
 
