@@ -7,7 +7,7 @@ This project focuses on designing a database for an E-commerce platform based on
 ## 2. Data and Design Requirement
 
 For detail information about data requirement and design requirement please visit:
-[Building a DB for an Ecommerce Platform (PDF)](01.Buiding%20a%20DB%20for%20an%20Ecommerce-Platform/Building_a_DB_for_an_Ecommerce-Platform(1).pdf)
+[Building a DB for an Ecommerce Platform (PDF)](Building_a_DB_for_an_Ecommerce-Platform(1).pdf)
 
 
 
